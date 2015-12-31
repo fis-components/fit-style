@@ -1,0 +1,16 @@
+{
+    "name": "fit-style",
+    "description": "",
+    "repos": "https://github.com/2betop/placeholder.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "bootstrap": "^4.0.0-alpha.2",
+        "font-awesome": "^4.5.0"
+    },
+    "version": "1.0.28",
+    "paths": {
+        "dist": "."
+    }
+}
