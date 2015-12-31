@@ -9,7 +9,7 @@
         "bootstrap": "^4.0.0-alpha.2",
         "font-awesome": "^4.5.0"
     },
-    "version": "1.0.28",
+    "version": "1.0.29",
     "paths": {
         "dist": "."
     }
